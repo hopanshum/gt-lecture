@@ -1,0 +1,8 @@
+[package]
+name = "gt-lecture"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["Peter Shum"]
+license = "MIT"
+description = "Lecture slides (Touying stargazer) and game-theory helpers for Game Theory I at CCU."
+compiler = "0.15.0"
